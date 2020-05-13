@@ -3,7 +3,7 @@ Product sale forecasting
 --
 Main file -> Sales_multiseries_random.ipynb
 
-Data -> Data is downloaded from UCI Machine learning repository and saved in ".csv" file (https://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Dataset_Weekly)
+Data -> Data is downloaded from UCI Machine learning repository and saved in "Sales_Transactions_Dataset_Weekly.csv" file (https://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Dataset_Weekly)
 
 Model .> Random forest
 
