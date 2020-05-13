@@ -1,7 +1,5 @@
 ####
-
-
-1. Housing price forecasting
+Housing price forecasting
 
 #Main file
 housing_price_forest.ipynb
@@ -14,6 +12,4 @@ Random forest
 
 #Error criterai
 Root Log Mean Square Error (rlmse)
-
-
 ###
